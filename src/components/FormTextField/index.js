@@ -3,7 +3,7 @@ import TextField from 'material-ui/TextField'
 
 class InputTextField extends React.Component {
   render() {
-    const { input, label, type, meta: { touched, error }, } = this.props;
+    const { input, label, meta: { touched, error }, } = this.props;
 
     return (
       <TextField
