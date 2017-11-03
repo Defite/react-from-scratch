@@ -1,0 +1,12 @@
+.SomeForm {
+
+  &__row {
+    display: flex;
+    justify-content: center;
+
+    & > div {
+      flex: 1;
+      margin-bottom: 10px;
+    }
+  }
+}
