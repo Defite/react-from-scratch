@@ -1,4 +1,5 @@
-# Test form on React, Redux Form, Material UI (next), build with Webpack, CSS Modules and PostCSS.
+# Test form
+React, Redux Form, Material UI (next), build with Webpack, CSS Modules and PostCSS.
 
 ## To start:
 
